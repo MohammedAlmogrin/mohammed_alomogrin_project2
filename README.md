@@ -1,4 +1,4 @@
-# 🏛️ Saudi Wonders
+# 🏛️ Discover Saudi Heritage
 
 **Saudi Wonders** is a Flutter mobile application designed to explore the rich heritage and historical landmarks of Saudi Arabia 🇸🇦. The app combines a modern "Desert Luxury" visual aesthetic with a seamless mobile exploration experience.
 
